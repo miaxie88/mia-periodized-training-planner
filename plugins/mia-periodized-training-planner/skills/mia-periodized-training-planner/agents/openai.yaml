@@ -1,0 +1,6 @@
+interface:
+  display_name: "Mia 周期化训练计划"
+  short_description: "从目标、限制条件与反馈反推安全可调的周期化训练计划"
+  default_prompt: "使用 $mia-periodized-training-planner，根据我的目标、日程和训练基础制定一份安全、可执行的周期化训练计划。"
+policy:
+  allow_implicit_invocation: true
