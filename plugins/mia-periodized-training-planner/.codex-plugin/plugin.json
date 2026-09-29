@@ -1,0 +1,22 @@
+{
+  "name": "mia-periodized-training-planner",
+  "version": "0.1.0",
+  "description": "Create, review, and adapt periodized training plans with a goal-first, constraint-aware framework.",
+  "author": {
+    "name": "@花臂学霸 Mia",
+    "url": "https://github.com/miaxie88"
+  },
+  "homepage": "https://github.com/miaxie88/mia-periodized-training-planner",
+  "repository": "https://github.com/miaxie88/mia-periodized-training-planner",
+  "keywords": ["periodization", "training-plan", "strength", "fitness", "health"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Mia 周期化训练计划",
+    "shortDescription": "从目标、限制条件与反馈反推可执行的周期化训练计划",
+    "longDescription": "基于目标、日历、训练基础与限制因素，制定、审查和迭代周期化训练计划，并给出进阶、保持、回调与停止规则。",
+    "developerName": "@花臂学霸 Mia",
+    "category": "Productivity",
+    "capabilities": ["Planning", "Analysis"],
+    "defaultPrompt": "使用 Mia 周期化训练计划，根据我的目标、日程和训练基础制定一份安全、可执行的训练计划。"
+  }
+}
